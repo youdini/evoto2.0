@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "135093860534",
+    "project_id": "evoto-8c416",
+    "storage_bucket": "evoto-8c416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135093860534:android:64481fd94daece5d858e17",
+        "android_client_info": {
+          "package_name": "com.youdini31.eVoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135093860534-o14so1rrp4uon3k9bvs9h84cug7botke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youdini31.eVoto",
+            "certificate_hash": "821fdd8d2fe6ec9f704a83919e3f9aee8c51bdc4"
+          }
+        },
+        {
+          "client_id": "135093860534-to9141ruqrkec4ponikks9b16rvf6uvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youdini31.eVoto",
+            "certificate_hash": "cd543a317263f9fa86b482c8e086bc1e33ce8ee7"
+          }
+        },
+        {
+          "client_id": "135093860534-qo4q8o9qqio2e8mcfq9hshn2ffm2gdvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbV7-1_2rxh3xrzmYLY198wXnRYYbyrLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135093860534-qo4q8o9qqio2e8mcfq9hshn2ffm2gdvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
